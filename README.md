@@ -14,7 +14,7 @@ The allure of software engineering and design beckoned to me from an early age. 
 
 In the world of technology, there's always a new challenge to embrace and an innovative solution to uncover. I eagerly look forward to the opportunities that lie ahead, and I remain committed to my journey as a technophile, a budding software engineer, and a creative graphic designer.
 
-Skills:
+Skills: <br>
 • Python <br>
 • JavaScript<br>
 • HTML<br>
