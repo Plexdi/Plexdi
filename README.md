@@ -1,5 +1,7 @@
 ### Hi there 👋, My name is Thanh
 #### About me
+<hr>
+
 ![About me](https://i.pinimg.com/564x/84/de/7b/84de7b4967eb548bcdbfb6d5444461d3.jpg)
 
 <hr>
