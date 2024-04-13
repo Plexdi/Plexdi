@@ -9,8 +9,6 @@
 - 🗣 Pronouns: He/Him
 - 🎮 Fun Fact: I love playing video games and watch anime.
 
-## Tech Stack:
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -27,6 +25,7 @@ C#          12 mins   █████░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+## Tech Stack:
 <p align="left">
   <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="40" height="40" alt="CSS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="40" height="40" alt="HTML" />
