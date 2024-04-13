@@ -11,6 +11,7 @@
 
 ## Weekly Development Breakdown
 
+
 Language    Time      Progress
 ---------   --------  -------------------------
 TypeScript  30 mins   ███░░░░░░░░░░░░░░░░░░░░░  10%
