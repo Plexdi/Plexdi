@@ -11,6 +11,22 @@
 
 ## Tech Stack:
 
+<!--START_SECTION:waka-->
+
+```txt
+
+Language    Time      Progress
+---------   --------  -------------------------
+TypeScript  30 mins   ████████░░░░░░░░░░░░░░░░  10%
+Python      9 hrs     ████████████████████░░░░  75%
+JavaScript  12 hrs    ████████████████████████  100%
+Markdown    31 mins   ███████░░░░░░░░░░░░░░░░░  8%
+C#          12 mins   █████░░░░░░░░░░░░░░░░░░░  2%
+
+```
+
+<!--END_SECTION:waka-->
+
 <p align="left">
   <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="40" height="40" alt="CSS" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="40" height="40" alt="HTML" />
