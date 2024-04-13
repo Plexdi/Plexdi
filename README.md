@@ -1,4 +1,4 @@
-![Alt text]([link-to-your-image.png](https://i.pinimg.com/564x/31/f3/d1/31f3d1a0e4d4bfac9f4438898eb78950.jpg)) 
+![Alt text](https://i.pinimg.com/564x/31/f3/d1/31f3d1a0e4d4bfac9f4438898eb78950.jpg)
 
 ## About Me:
 
