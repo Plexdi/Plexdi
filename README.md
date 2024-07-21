@@ -33,7 +33,7 @@ I am a Computer Science student at City and Islington College. I have a passion 
 - **Programming Languages**: Java, Python, JavaScript
 - **Web Development**: HTML, CSS, JavaScript, React
 - **Database Management**: MySQL, PostgreSQL
-- **Tools and Technologies**: Git, VS Code
+- **Tools and Technologies**: Git, VS Code, Figma
 
 ## Education
 
