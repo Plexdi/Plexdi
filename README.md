@@ -10,7 +10,7 @@ I am a Computer Science student at City and Islington College. I have a passion 
 - 🌱 I’m currently learning **Java** and **Web Development**
 - 💻 I’m interested in **Open Source Contributions** and **Machine Learning**
 - 🎯 My goal is to become a **Backend Developer**
-- ⚡ Fun fact: I love watching anime, reading manga, playing games, and playing sports
+- ⚡ Fun fact: I love playing sport, playing games, watching manga, and watching anime
 
 ## 🛠️ Languages and Tools
 
