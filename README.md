@@ -27,9 +27,9 @@
 
 ## 🚀 Projects  
 Here are a few highlights (more coming soon):  
-- 📊 **[Project Name]** – short 1-line description (tech used)  
-- 🔐 **[Project Name]** – short 1-line description (tech used)  
-- 🎮 **[Project Name]** – short 1-line description (tech used)  
+- 📊 **Discord Bot that helps with quitting addiction by having a streak systems** 
+- 🔐 **Library Management Systems** 
+- 🎮 **Hangman game** 
 
 *(I’m currently cleaning up and publishing more polished repos. Stay tuned!)*
 
