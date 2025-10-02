@@ -14,12 +14,12 @@
 
 ---
 
-## 🛠️ Languages & Tools  
-(Actively using / learning)
-- **Programming**: Python, JavaScript  
-- **Web**: HTML, CSS, React, Tailwind  
-- **Databases**: MySQL, PostgreSQL  
-- **Tools**: Git, VS Code, Figma  
+## 🛠️ Languages & Tools
+I’ve had exposure to and am continuing to practice:
+- Python (data processing, scripting basics)
+- JavaScript, HTML, CSS (small web projects, experimenting with React + Tailwind)
+- SQL (MySQL, PostgreSQL basics)
+- Git & GitHub (version control for my projects)
 
 *(Other technologies I’ve explored in the past: Java, machine learning basics, etc.)*
 
