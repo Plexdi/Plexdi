@@ -52,4 +52,3 @@ Here are a few highlights (more coming soon):
 ## 📫 Get in Touch  
 📧 Email: [thanhngo20068@gmail.com](mailto:thanhngo20068@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/ngo-thanh-2b706938](https://linkedin.com/in/ngo-thanh-2b706938)  
-🐦 Twitter: [@Plexdi_](https://twitter.com/Plexdi_)  
